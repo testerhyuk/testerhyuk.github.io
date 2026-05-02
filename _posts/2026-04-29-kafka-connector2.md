@@ -1,5 +1,5 @@
 ---
-title: 카프카 커넥트 개념 정리 1부
+title: 카프카 커넥트 개념 정리 2부
 date: 2026-04-29 21:55:00 +0900
 categories: [Backend, Java]
 tags: [Spring, Kafka]
